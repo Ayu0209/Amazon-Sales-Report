@@ -34,7 +34,7 @@ Amazon sellers need actionable insights into their sales data to improve product
 
 ---
 
-## 🔹 Dataset  
+## Dataset  
 - **Raw Data:** `Amazon_Sale_Report.csv`  
 - **Processed Data (after cleaning & EDA):** `Final_Sale_Report.csv`  
 
@@ -42,7 +42,7 @@ The dataset includes order details, category, size, status, fulfillment type, an
 
 ---
 
-## 🔹 Tools and Technologies  
+## Tools and Technologies  
 - **Python (Pandas, NumPy, Matplotlib, Seaborn)** → Data Cleaning & EDA  
 - **Jupyter Notebook** → Analysis and visualization  
 - **Power BI** → Dashboard and reporting  
@@ -50,7 +50,7 @@ The dataset includes order details, category, size, status, fulfillment type, an
 
 ---
 
-## 🔹 Project Structure  
+## Project Structure  
 
 ```
 Amazon-Sales-Report/
@@ -66,7 +66,7 @@ Amazon-Sales-Report/
 
 ---
 
-## 🔹 Data Cleaning & Preparation  
+## Data Cleaning & Preparation  
 - Removed null values and duplicates  
 - Standardized date formats  
 - Cleaned category and size columns  
@@ -74,7 +74,7 @@ Amazon-Sales-Report/
 
 ---
 
-## 🔹 Exploratory Data Analysis (EDA)  
+## Exploratory Data Analysis (EDA)  
 Key steps performed in `Sales.ipynb`:  
 - Sales trends over time  
 - Orders by status (Delivered, Cancelled, Returned, Pending)  
@@ -86,7 +86,7 @@ Key steps performed in `Sales.ipynb`:
 
 ---
 
-## 🔹 Research Questions & Key Findings  
+## Research Questions & Key Findings  
 - Which sales channel contributes the most revenue?  
 - What are the best and worst-performing categories?  
 - How do delivery statuses impact overall revenue?  
@@ -94,7 +94,7 @@ Key steps performed in `Sales.ipynb`:
 
 ---
 
-## 🔹 Dashboard/Model/Output  
+## Dashboard/Model/Output  
 - **Power BI Dashboard** (`Amazon Dashbaord.pbix`)  
 - Includes KPIs, category insights, sales trends, and map visualization.  
 - Example snapshot:  
@@ -103,7 +103,7 @@ Key steps performed in `Sales.ipynb`:
 
 ---
 
-## 🔹 How to Run this Project?  
+## How to Run this Project?  
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Ayu0209/Amazon-Sales-Report.git
@@ -114,7 +114,7 @@ Key steps performed in `Sales.ipynb`:
 
 ---
 
-## 🔹 Results & Conclusion  
+## Results & Conclusion  
 - Electronics and Apparel categories dominate sales.  
 - Amazon contributes the highest sales among channels.  
 - Majority of orders are successfully delivered, with minimal returns.  
@@ -122,14 +122,14 @@ Key steps performed in `Sales.ipynb`:
 
 ---
 
-## 🔹 Future Work  
+## Future Work  
 - Predictive modeling for future sales.  
 - Customer segmentation for targeted strategies.  
 - Automated dashboard updates using live data sources.  
 
 ---
 
-## 🔹 Author & Contact  
+## Author & Contact  
 👩‍💻 **Ayushi Kedia**  
 📧 [ayushi.kedia@example.com](mailto:ayushi.kedia@example.com)  
 🔗 [GitHub Profile](https://github.com/Ayu0209)  
