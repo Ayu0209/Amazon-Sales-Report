@@ -133,7 +133,7 @@ Key steps performed in `Sales.ipynb`:
    cd Amazon-Sales-Report
    ```
 2. Open `Sales.ipynb` in Jupyter Notebook to explore EDA.  
-3. Open `Amazon Dashbaord.pbix` in Power BI Desktop to view dashboard.  
+3. Open `amazon_sales.pbix` in Power BI Desktop to view dashboard.  
 
 ---
 
