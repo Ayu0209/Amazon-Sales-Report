@@ -16,7 +16,7 @@ _Comprehensive analysis of Amazon sales data with data cleaning, exploratory dat
 6. [Data Cleaning & Preparation](#data-cleaning--preparation)  
 7. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
 8. [Research Questions & Key Findings](#research-questions--key-findings)  
-9. [Dashboard/Model/Output](#dashboardmodeloutput)  
+9. [Dashboard](#dashboard)  
 10. [How to Run this Project?](#how-to-run-this-project)  
 11. [Results & Conclusion](#results--conclusion)  
 12. [Future Work](#future-work)  
@@ -115,7 +115,7 @@ Key steps performed in `Sales.ipynb`:
 
 ---
 
-## Dashboard/Model/Output  
+## Dashboard  
 - **Power BI Dashboard** (`amazon_sales.pbix`)  
 - Includes KPIs, category insights, sales trends, and map visualization.  
   **Dashboard Snapshot:**  
