@@ -35,6 +35,7 @@ Amazon handles millions of transactions daily across multiple categories, region
 - How regional performance varies across states.
 - Which fulfilment (Amazon, Merchant, etc.) contribute more to growth.
 - The impact of order status (delivered, returned, cancelled) on overall profitability.
+  
 Without clear insights, businesses struggle with inefficient inventory planning, missed growth opportunities, and poor customer experience.
 This project analyzes Amazon sales data to uncover key trends, vendor performance, customer demand patterns, and revenue drivers, enabling data-backed strategic decisions. 
 
