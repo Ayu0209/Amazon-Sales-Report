@@ -30,7 +30,13 @@ This project focuses on analyzing Amazon sales data to identify sales trends, ca
 ---
 
 ## Business Problem  
-Amazon sellers need actionable insights into their sales data to improve product performance, optimize sales channels, reduce returns, and maximize revenue.  
+Amazon handles millions of transactions daily across multiple categories, regions, and sales channels. For sellers and decision-makers, it becomes challenging to identify:
+- Which categories and products drive the most revenue?
+- How regional performance varies across states.
+- Which fulfilment (Amazon, Merchant, etc.) contribute more to growth.
+- The impact of order status (delivered, returned, cancelled) on overall profitability.
+Without clear insights, businesses struggle with inefficient inventory planning, missed growth opportunities, and poor customer experience.
+This project analyzes Amazon sales data to uncover key trends, vendor performance, customer demand patterns, and revenue drivers, enabling data-backed strategic decisions. 
 
 ---
 
@@ -55,13 +61,27 @@ The dataset includes order details, category, size, status, fulfillment type, an
 ```
 Amazon-Sales-Report/
 │
-├── 📊 Amazon_Sale_Report.csv        # Raw dataset (original sales data)
-├── 📊 Final_Sale_Report.csv         # Processed dataset after cleaning & EDA
-├── 📒 Sales.ipynb                   # Jupyter Notebook (data cleaning, EDA, insights)
-├── 📊 Amazon Dashbaord.pbix         # Power BI dashboard file
-├── 🌍 india_states.geojson          # GeoJSON file for India state-level map visualization
-├── 📄 .gitignore                    # Git ignore file to keep repo clean
-└── 📄 README.md                     # Project documentation
+│── 📂 data/                         # Raw & processed datasets
+│   │── Amazon_Sale_Report.csv       # Original dataset(s)
+│   │── Final_Sale_Report.csv        # Cleaned / transformed datasets
+│
+│── 📂 notebook/                 # Jupyter notebooks for EDA & analysis
+│   │── Sales.ipynb
+│
+│── 📂 dashboard/                 # Power BI dashboard
+│   │── amazon_sales.pbix
+│
+│── 📂 visuals/                   # Exported plots, charts, and screenshots
+│   │── 1_sales_analysis.jpg
+│   │── 2_regional_analysis.jpg
+│   │── 3_product_insights.jpg
+│   │── amazonindia.png
+│   │── logo.jpg
+│
+│── 📄 india_states.geojson        # Geo data for regional analysis
+│── 📄 README.md                 # Project overview, business problem, insights,etc
+│── 📄 .gitignore                 # Ignore unnecessary files
+
 ```
 
 ---
@@ -70,7 +90,7 @@ Amazon-Sales-Report/
 - Removed null values and duplicates  
 - Standardized date formats  
 - Cleaned category and size columns  
-- Processed dataset saved as `Final_Sale_Report.csv`  
+- Processed dataset saved as _`Final_Sale_Report.csv`_  
 
 ---
 
@@ -82,7 +102,7 @@ Key steps performed in `Sales.ipynb`:
 - Sales performance across channels  
 - Geographic insights using India states map  
 
-👉 Full Notebook Preview on **nbviewer**: [Click Here](https://nbviewer.org/github/Ayu0209/Amazon-Sales-Report/blob/main/Sales.ipynb)  
+👉 Full Notebook Preview on **nbviewer**: [Click Here](https://nbviewer.org/github/Ayu0209/Amazon-Sales-Report/blob/main/notebook/Sales.ipynb)   
 
 ---
 
@@ -95,11 +115,13 @@ Key steps performed in `Sales.ipynb`:
 ---
 
 ## Dashboard/Model/Output  
-- **Power BI Dashboard** (`Amazon Dashbaord.pbix`)  
+- **Power BI Dashboard** (`amazon_sales.pbix`)  
 - Includes KPIs, category insights, sales trends, and map visualization.  
 - Example snapshot:  
 
-![Dashboard Preview](dashboard_image.png)  
+![Page-1: Sales Analysis Dashboard Preview](https://github.com/Ayu0209/Amazon-Sales-Report/blob/main/visuals/1.Sales%20Anaysis.jpg)  
+![Page-2: Regional Analysis Dashboard Preview](https://github.com/Ayu0209/Amazon-Sales-Report/blob/main/visuals/2.Regional%20Analysis.jpg)  
+![Page-1: Product & Fulfilment Insights Dashboard Preview](https://github.com/Ayu0209/Amazon-Sales-Report/blob/main/visuals/3.Product%20%26%20Fulfilment%20Insights.jpg)  
 
 ---
 
@@ -116,7 +138,7 @@ Key steps performed in `Sales.ipynb`:
 
 ## Results & Conclusion  
 - Electronics and Apparel categories dominate sales.  
-- Amazon contributes the highest sales among channels.  
+- Amazon contributes the highest sales among fulfilment.  
 - Majority of orders are successfully delivered, with minimal returns.  
 - Seasonal trends impact demand significantly.  
 
@@ -130,6 +152,6 @@ Key steps performed in `Sales.ipynb`:
 ---
 
 ## Author & Contact  
-👩‍💻 **Ayushi Kedia**  
-📧 [ayushi.kedia@example.com](mailto:ayushi.kedia@example.com)  
-🔗 [GitHub Profile](https://github.com/Ayu0209)  
+👩‍💻 **Ayushi Kedia**    
+📧 Email: ayushikediahm@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-kedia-81bb7520b/)  
