@@ -120,7 +120,7 @@ Key steps performed in `Sales.ipynb`:
 - Includes KPIs, category insights, sales trends, and map visualization.  
 - Example snapshot:  
 
-![Page-1: Sales Analysis Dashboard Preview](https://github.com/Ayu0209/Amazon-Sales-Report/blob/main/visuals/1.Sales%20Anaysis.jpg)  
+[Page-1: Sales Analysis Dashboard Preview](https://github.com/Ayu0209/Amazon-Sales-Report/blob/main/visuals/1.Sales%20Anaysis.jpg)  
 ![Page-2: Regional Analysis Dashboard Preview](https://github.com/Ayu0209/Amazon-Sales-Report/blob/main/visuals/2.Regional%20Analysis.jpg)  
 ![Page-1: Product & Fulfilment Insights Dashboard Preview](https://github.com/Ayu0209/Amazon-Sales-Report/blob/main/visuals/3.Product%20%26%20Fulfilment%20Insights.jpg)  
 
@@ -154,6 +154,5 @@ Key steps performed in `Sales.ipynb`:
 
 ## Author & Contact  
 👩‍💻 **Ayushi Kedia**    
-📧 Email: ayushikediahm@gmail.com
-
+📧 Email: ayushikediahm@gmail.com    
 🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-kedia-81bb7520b/)  
