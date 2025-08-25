@@ -3,10 +3,6 @@
   Amazon Sales Analysis Report
 </h1>
 
-## 🔹 Project Title  
-Amazon Sales Report Analysis  
-
-## 🔹 Brief One Line Summary  
 Comprehensive analysis of Amazon sales data with data cleaning, exploratory data analysis (EDA), and visualization using Jupyter Notebook and Power BI.  
 
 ---
