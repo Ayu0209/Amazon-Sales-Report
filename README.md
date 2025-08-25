@@ -155,4 +155,5 @@ Key steps performed in `Sales.ipynb`:
 ## Author & Contact  
 👩‍💻 **Ayushi Kedia**    
 📧 Email: ayushikediahm@gmail.com
+
 🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-kedia-81bb7520b/)  
