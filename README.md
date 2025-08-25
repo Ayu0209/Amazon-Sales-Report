@@ -3,7 +3,7 @@
   Amazon Sales Analysis Report
 </h1>
 
-Comprehensive analysis of Amazon sales data with data cleaning, exploratory data analysis (EDA), and visualization using Jupyter Notebook and Power BI.  
+_Comprehensive analysis of Amazon sales data with data cleaning, exploratory data analysis (EDA), and visualization using Jupyter Notebook and Power BI._  
 
 ---
 
