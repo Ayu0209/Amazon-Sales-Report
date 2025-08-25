@@ -62,7 +62,7 @@ The dataset includes order details, category, size, status, fulfillment type, an
 ```
 Amazon-Sales-Report/
 │
-│── 📂 data/                         # Raw & processed datasets
+│── 📂 data/                         
 │   │── Amazon_Sale_Report.csv       # Original dataset(s)
 │   │── Final_Sale_Report.csv        # Cleaned / transformed datasets
 │
