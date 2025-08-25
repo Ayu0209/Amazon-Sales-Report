@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="logo.jpg" alt="Logo" width="60" style="vertical-align:middle; margin-right:10px;"/>
+  <img src="visuals/logo.jpg" alt="Logo" width="60" style="vertical-align:middle; margin-right:10px;"/>
   Amazon Sales Analysis Report
 </h1>
 
