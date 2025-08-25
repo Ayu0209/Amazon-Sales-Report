@@ -63,8 +63,8 @@ The dataset includes order details, category, size, status, fulfillment type, an
 Amazon-Sales-Report/
 │
 │── 📂 data/                         
-│   │── Amazon_Sale_Report.csv       # Original dataset(s)
-│   │── Final_Sale_Report.csv        # Cleaned / transformed datasets
+│   │── Amazon_Sale_Report.csv       # Original dataset
+│   │── Final_Sale_Report.csv        # Cleaned / transformed dataset
 │
 │── 📂 notebook/                 # Jupyter notebooks for EDA & analysis
 │   │── Sales.ipynb
