@@ -24,12 +24,12 @@ _Comprehensive analysis of Amazon sales data with data cleaning, exploratory dat
 
 ---
 
-## 🔹 Overview  
+## Overview  
 This project focuses on analyzing Amazon sales data to identify sales trends, category performance, delivery insights, and customer behavior. The project includes dataset cleaning, EDA in Python, and a Power BI interactive dashboard for visualization.  
 
 ---
 
-## 🔹 Business Problem  
+## Business Problem  
 Amazon sellers need actionable insights into their sales data to improve product performance, optimize sales channels, reduce returns, and maximize revenue.  
 
 ---
