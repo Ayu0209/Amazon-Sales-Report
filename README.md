@@ -122,7 +122,7 @@ Key steps performed in `Sales.ipynb`:
 
 ![Page-1: Sales Analysis Dashboard Preview](https://github.com/Ayu0209/Amazon-Sales-Report/blob/main/visuals/1.Sales%20Anaysis.jpg)  
 ![Page-2: Regional Analysis Dashboard Preview](https://github.com/Ayu0209/Amazon-Sales-Report/blob/main/visuals/2.Regional%20Analysis.jpg)  
-![Page-1: Product & Fulfilment Insights Dashboard Preview](https://github.com/Ayu0209/Amazon-Sales-Report/blob/main/visuals/3.Product%20%26%20Fulfilment%20Insights.jpg)  
+![Page-3: Product & Fulfilment Insights Dashboard Preview](https://github.com/Ayu0209/Amazon-Sales-Report/blob/main/visuals/3.Product%20%26%20Fulfilment%20Insights.jpg)  
 
 ---
 
